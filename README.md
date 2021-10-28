@@ -1,8 +1,8 @@
 ## Alexandre Dinis
 
 
-Estou cursando Ciencia da Computacao .
-Estou aprendendo java e c.
+Estou cursando Ciencia da Computacao.
+🎶
 
 linkedin alexandreDinis/
 email/  dinisde@gmail.com/
