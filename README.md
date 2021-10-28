@@ -4,8 +4,8 @@
 Estou cursando Ciencia da Computacao .
 Estou aprendendo java e c.
 
-linkedin / alexandreDinis
-email/  dinisde@gmail.com
+linkedin alexandreDinis/
+email/  dinisde@gmail.com/
 <!--
 **alexandreDinis/alexandreDinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
