@@ -1,12 +1,10 @@
- ##Eu sou Alexandre Dinis.                                                                                                                                 
+ ## Eu sou Alexandre Dinis.                                                                                                                                 
   
-   Passando pela vida para aproveitar ao máximo o que ela pode me proporcionar.
+  Passando pela vida para aproveitar ao máximo o que ela pode me proporcionar.
    
-   Com a experiência que adquiri ao longo dos anos, pude entender que não há pressa
+  Com a experiência que adquiri ao longo dos anos, pude entender que não há pressa
    
-   para chegar, afinal, no final, não há pote de ouro.
-   
-   Essa visão proporcionou mais leveza e um real desejo por aprendizagem e desenvolvimento pessoal.
+  para chegar, afinal, no final, não há pote de ouro. Essa visão proporcionou mais leveza e um real desejo por aprendizagem e desenvolvimento pessoal.
    
   Quando completei trinta anos, entrei em uma crise existencial épica. Para mim, não havia o menor sentido na vida. 
   
@@ -18,7 +16,7 @@
   
   mas algo ainda não me deixava feliz. Foi nessa época que recebi um grande insight da Silene, minha psicóloga.
   
-  ##O Insight
+  ## O Insight
   
   Silene foi a terceira tentativa de encontrar uma boa profissional. Nos identificamos na primeira sessão e ficamos juntos por dois bons anos.
   
