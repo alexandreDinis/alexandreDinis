@@ -32,13 +32,10 @@ Busco uma oportunidade para aplicar minhas habilidades em Java, Spring Boot e ou
 - **Oracle Next Education:** Formação completa em desenvolvimento Java, com foco em back-end boas práticas de programação.
 - **Hacker do Bem:** Curso ded cibersegurança, explorando conceitos e ferramentas essenciais.
 
-## Experiência Profissional:
-
-**Representante Comercial (2010 - 2019):** Responsável por prospectar clientes, negociar contratos e gerenciar vendas na área têxtil. Desenvolvi habilidades de comunicação, negociação e resolução de problemas.
 
 ## Próximos Passos:
 
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento web beck-end. Busco uma oportunidade como desenvolvedor júnior para aplicar meus conhecimentos em projetos reais e continuar aprendendo com profissionais experientes.
+Atualmente, estou aprimorando minhas habilidades em desenvolvimento web beck-end. Busco uma oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais e continuar aprendendo com profissionais experientes.
 
 ## Vamos conversar?
 
