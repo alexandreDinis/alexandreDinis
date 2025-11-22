@@ -1,63 +1,132 @@
-# Da Área Comercial à Tecnologia: A Jornada de um Desenvolvedor Java Apaixonado 🚀
 
-Minha trajetória profissional começou na área Comercial , mas a paixão por tecnologia sempre esteve presente. Aos 33 anos, decidi dar um salto de fé e mergulhar no mundo da programação. Hoje, sou um desenvolvedor Java em formação, com foco em back-end e um interesse crescente por cibersegurança.
+# 👨‍💻 Alexandre Dinis | Desenvolvedor Java Back-end & Futuro Especialista em Cibersegurança
 
-## Em busca de desafios e oportunidades:
+Da área comercial à tecnologia — aos 33 anos, decidi transformar minha paixão por tecnologia em carreira. Hoje sou **desenvolvedor Java** com foco em back-end e caminhando para me tornar especialista em **cibersegurança**.
 
-Busco uma oportunidade para aplicar minhas habilidades em Java, Spring Boot e outras tecnologias em projetos que façam a diferença. Sou apaixonado por aprender e crescer profissionalmente, e estou ansioso para contribuir com minha energia e entusiasmo para uma equipe inovadora.
+---
 
-## Habilidades Técnicas:
+## 🎯 Sobre Mim
 
-- **Linguagens:** Java (8+), SQL
-- **Frameworks:** Spring Boot, Hibernate, Spring Security
-- **Bancos de Dados:** MySQL, PostgreSQL
-- **Outras:** Git, Docker, Maven, JUnit, Mockito
+Desenvolvedor back-end em constante evolução, com experiência em construção de APIs REST robustas e seguras. Minha trajetória comercial me deu visão de negócio e habilidade para resolver problemas reais com eficiência. Em 2025, inicio minha graduação em **Cibersegurança na FIAP**, consolidando minha transição para a área de segurança ofensiva.
 
-## Projeto em Destaque:
+**Busco oportunidades como:**
+- Desenvolvedor Back-end Java (Jr/Pleno)
+- Trainee/Júnior em Cibersegurança
+- Posições que unam desenvolvimento seguro e proteção de sistemas
 
-**CTO_API:** Uma API RESTful completa para conectar clientes a profissionais de reparos automotivos, como mecânicos, funileiros, martelinhos de ouro e outros. Desenvolvida com Java e Spring Boot, a API oferece uma plataforma completa para agendamento de serviços, gerenciamento de clientes e profissionais, além de recursos de segurança com Spring Security.
+---
 
-### Funcionalidades da CTO_API:
+## 🛠️ Stack Tecnológica
 
-- **Clientes:** Cadastro, consulta, atualização e exclusão de informações de clientes.
-- **Profissionais:** Cadastro, consulta, atualização e exclusão de informações de profissionais, incluindo especialidades e disponibilidade.
-- **Serviços:** Agendamento e gerenciamento de serviços, com detalhes como tipo de serviço, data, hora e profissional responsável.
-- **Pagamentos:** Integração com sistemas de pagamento para facilitar transações online.
-- **Autenticação e Autorização:** Proteção dos endpoints da API com Spring Security e JWT, garantindo acesso seguro aos recursos.
+### Back-end & Arquitetura
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandreDinis&repo=CTO_API&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexandreDinis/CTO_API)
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Formação:
+### DevOps & Qualidade
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
-- **Oracle Next Education:** Formação completa em desenvolvimento Java, com foco em back-end boas práticas de programação.
-- **Hacker do Bem:** Curso ded cibersegurança, explorando conceitos e ferramentas essenciais.
+### Cibersegurança (em formação)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+
+**Habilidades em desenvolvimento:**
+- OWASP Top 10, Pentest, Scanner de vulnerabilidades
+- Ferramentas: Nmap, Hydra, LinPEAS, Metasploit
+- Análise de escalonamento de privilégios e engenharia reversa
+
+---
+
+## 🌟 Projeto em Destaque
+
+### 📋 Sistema de Escala de Folgas para Enfermagem
+
+Solução inteligente para automatizar a geração de escalas de trabalho e folgas de profissionais de enfermagem, garantindo conformidade trabalhista e eliminando erros de planejamento manual.
+
+**Destaques técnicos:**
+- ☕ Desenvolvido com **Java 17+ e Spring Boot**
+- 🏗️ Arquitetura em camadas (Controller → Service → Repository → Domain)
+- ✅ Testes automatizados com JUnit e Mockito
+- 🐳 Containerização com Docker
+- 📊 Algoritmo otimizado para cálculo de escalas e distribuição equilibrada
+- 🔐 Preparado para futuras integrações de segurança e autenticação
+
+**Roadmap futuro:**
+- Implementação de IA para predição de conflitos
+- Dashboard web para visualização das escalas
+- API REST completa para integração com sistemas hospitalares
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandreDinis&repo=escala-de-folga-enfermagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexandreDinis/escala-de-folga-enfermagem)
+
+---
+
+## 🎓 Formação e Certificações
+
+| Instituição | Curso | Status |
+|------------|-------|--------|
+| **FIAP** | Graduação em Cibersegurança | 🎯 Início em 2026 |
+| **Oracle Next Education** | Formação Java Back-end | ✅ Concluído |
+| **Hackers do Bem** | Bootcamp Cibersegurança | ✅ Concluído |
+| **Santander** | Bootcamp Cibersegurança #2 | ✅ Concluído |
+| **Alura** | Diversos cursos (Java, Spring, OCI) | ✅ Concluído|
+
+---
+
+## 📈 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreDinis&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreDinis&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
+
+## 🚀 Próximos Passos
+
+- 🎓 Iniciar graduação em Cibersegurança na FIAP (2026)
+- 🔐 Aprofundar conhecimentos em Red Team e Segurança Ofensiva
+- 🎯 Continuar me aprofundando no desenvolvimento de APIs
+- ☁️ Estudar Cloud Security (AWS/Azure)
+- 🏗️ Desenvolver APIs seguras seguindo OWASP e boas práticas de DevSecOps
+- 🎯 Conquistar certificações em segurança (CEH, OSCP)
+
+---
+
+## 💼 Experiência Diferenciada
+
+Minha trajetória comercial me proporcionou:
+- 🎯 Visão estratégica de negócio e orientação a resultados
+- 🤝 Excelente comunicação com stakeholders técnicos e não-técnicos
+- 💡 Capacidade de traduzir necessidades de negócio em soluções técnicas
+- 📊 Foco em entregar valor real aos usuários finais
+
+---
+
+## 📞 Vamos Conversar?
+
+Estou aberto a oportunidades, colaborações e conversas sobre tecnologia!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandredinis/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandreDinis)
+
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinisde@gmail.com)
+
+---
 
 
-## Próximos Passos:
 
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento web beck-end. Busco uma oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais e continuar aprendendo com profissionais experientes.
+### 💭 *"A tecnologia transforma quem escolhe aprender. A segurança digital protege quem escolhe evoluir."*
 
-## Vamos conversar?
-
-Se você se identificou com minha história e acredita que posso agregar valor à sua equipe, entre em contato comigo!
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandredinis/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandreDinis) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinisde@gmail.com)
-
-
-
-_"O sucesso não é definitivo, o fracasso não é fatal: o que importa é a coragem para continuar." - Winston Churchill_
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreDinis&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
+⭐ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
 
 
 
