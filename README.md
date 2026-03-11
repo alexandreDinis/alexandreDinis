@@ -1,11 +1,11 @@
 
-# 👨‍💻 Alexandre Dinis | Desenvolvedor Java Back-end & Futuro Especialista em Cibersegurança
+#  Alexandre Dinis | Desenvolvedor Java Back-end & Futuro Especialista em Cibersegurança
 
 Da área comercial à tecnologia — aos 33 anos, decidi transformar minha paixão por tecnologia em carreira. Hoje sou **desenvolvedor Java** com foco em back-end e caminhando para me tornar especialista em **cibersegurança**.
 
 ---
 
-## 🎯 Sobre Mim
+##  Sobre Mim
 
 Desenvolvedor back-end em constante evolução, com experiência em construção de APIs REST robustas e seguras. Minha trajetória comercial me deu visão de negócio e habilidade para resolver problemas reais com eficiência. Em 2025, inicio minha graduação em **Cibersegurança na FIAP**, consolidando minha transição para a área de segurança ofensiva.
 
@@ -16,7 +16,7 @@ Desenvolvedor back-end em constante evolução, com experiência em construção
 
 ---
 
-## 🛠️ Stack Tecnológica
+##  Stack Tecnológica
 
 ### Back-end & Arquitetura
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,42 +46,87 @@ Desenvolvedor back-end em constante evolução, com experiência em construção
 
 ---
 
-## 🌟 Projeto em Destaque
+##  Projeto em Destaque
 
-### 📋 Sistema de Escala de Folgas para Enfermagem
+### Sistema de Gestão Financeira SaaS
 
-Solução inteligente para automatizar a geração de escalas de trabalho e folgas de profissionais de enfermagem, garantindo conformidade trabalhista e eliminando erros de planejamento manual.
+Plataforma SaaS multi-tenant para gestão financeira doméstica, projetada com foco em escalabilidade, segurança e arquitetura limpa. O sistema permite controle completo de contas, transações, orçamentos, metas financeiras, cartões de crédito e gerenciamento de dívidas pessoais, além de suportar planos de assinatura e isolamento de dados por tenant.
 
-**Destaques técnicos:**
-- ☕ Desenvolvido com **Java 17+ e Spring Boot**
-- 🏗️ Arquitetura em camadas (Controller → Service → Repository → Domain)
-- ✅ Testes automatizados com JUnit e Mockito
-- 🐳 Containerização com Docker
-- 📊 Algoritmo otimizado para cálculo de escalas e distribuição equilibrada
-- 🔐 Preparado para futuras integrações de segurança e autenticação
+O projeto foi estruturado seguindo boas práticas de engenharia de software e princípios de arquitetura moderna para aplicações SaaS.
 
-**Roadmap futuro:**
-- Implementação de IA para predição de conflitos
-- Dashboard web para visualização das escalas
-- API REST completa para integração com sistemas hospitalares
+Destaques técnicos:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandreDinis&repo=escala-de-folga-enfermagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexandreDinis/escala-de-folga-enfermagem)
+Desenvolvido com Java 17 e Spring Boot 3
+
+Arquitetura em camadas (Controller → Service → Repository → Domain)
+
+Estrutura preparada para multi-tenancy com isolamento por tenant
+
+API RESTful documentada com OpenAPI / Swagger
+
+Persistência com Spring Data JPA e PostgreSQL
+
+Controle de migrations com Flyway
+
+Segurança baseada em Spring Security e JWT
+
+Paginação, idempotência de requisições e padronização de respostas da API
+
+Processamento assíncrono para tarefas recorrentes com Spring Scheduler
+
+Modelagem de domínio completa para transações financeiras, dívidas, metas e orçamentos
+
+Arquitetura e princípios aplicados:
+
+Monólito modular preparado para evolução futura
+
+Separação clara de responsabilidades
+
+Padrões de design para aplicações multi-tenant
+
+Estrutura de domínio inspirada em sistemas financeiros reais
+
+Preparado para escalabilidade e futuras integrações SaaS
+
+Roadmap futuro:
+
+Dashboard financeiro interativo
+
+Sistema de projeção automática de saldo e fluxo financeiro
+
+Integração com importação de extratos (CSV / OFX)
+
+Sistema de classificação automática de categorias
+
+Observabilidade e métricas com Prometheus e Grafana
+
+Rate limiting e otimizações de segurança
+
+Versão mobile da plataforma
+
+Repositórios:
+
+### Backend:
+https://github.com/alexandreDinis/gestao-financeiro-backend
+
+### Frontend:
+https://github.com/alexandreDinis/gestao-financeiro-frontend
 
 ---
 
-## 🎓 Formação e Certificações
+##  Formação e Certificações
 
 | Instituição | Curso | Status |
 |------------|-------|--------|
-| **FIAP** | Graduação em Cibersegurança | 🎯 Início em 2026 |
-| **Oracle Next Education** | Formação Java Back-end | ✅ Concluído |
-| **Hackers do Bem** | Bootcamp Cibersegurança | ✅ Concluído |
-| **Santander** | Bootcamp Cibersegurança #2 | ✅ Concluído |
-| **Alura** | Diversos cursos (Java, Spring, OCI) | ✅ Concluído|
+| **FIAP** | Graduação em Cibersegurança |  Início em 2026 |
+| **Oracle Next Education** | Formação Java Back-end |  Concluído |
+| **Hackers do Bem** | Bootcamp Cibersegurança |  Concluído |
+| **Santander** | Bootcamp Cibersegurança #2 |  Concluído |
+| **Alura** | Diversos cursos (Java, Spring, OCI) |  Concluído|
 
 ---
 
-## 📈 Estatísticas GitHub
+##  Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreDinis&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage)
 
@@ -89,28 +134,28 @@ Solução inteligente para automatizar a geração de escalas de trabalho e folg
 
 ---
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 
-- 🎓 Iniciar graduação em Cibersegurança na FIAP (2026)
-- 🔐 Aprofundar conhecimentos em Red Team e Segurança Ofensiva
-- 🎯 Continuar me aprofundando no desenvolvimento de APIs
-- ☁️ Estudar Cloud Security (AWS/Azure)
-- 🏗️ Desenvolver APIs seguras seguindo OWASP e boas práticas de DevSecOps
-- 🎯 Conquistar certificações em segurança (CEH, OSCP)
+-  Iniciar graduação em Cibersegurança na FIAP (2026)
+-  Aprofundar conhecimentos em Red Team e Segurança Ofensiva
+-  Continuar me aprofundando no desenvolvimento de APIs
+-  Estudar Cloud Security (AWS/Azure)
+-  Desenvolver APIs seguras seguindo OWASP e boas práticas de DevSecOps
+-  Conquistar certificações em segurança (CEH, OSCP)
 
 ---
 
-## 💼 Experiência Diferenciada
+##  Experiência Diferenciada
 
 Minha trajetória comercial me proporcionou:
-- 🎯 Visão estratégica de negócio e orientação a resultados
-- 🤝 Excelente comunicação com stakeholders técnicos e não-técnicos
-- 💡 Capacidade de traduzir necessidades de negócio em soluções técnicas
-- 📊 Foco em entregar valor real aos usuários finais
+- Visão estratégica de negócio e orientação a resultados
+- Excelente comunicação com stakeholders técnicos e não-técnicos
+- Capacidade de traduzir necessidades de negócio em soluções técnicas
+-  Foco em entregar valor real aos usuários finais
 
 ---
 
-## 📞 Vamos Conversar?
+## Vamos Conversar?
 
 Estou aberto a oportunidades, colaborações e conversas sobre tecnologia!
 
@@ -124,9 +169,9 @@ Estou aberto a oportunidades, colaborações e conversas sobre tecnologia!
 
 
 
-### 💭 *"A tecnologia transforma quem escolhe aprender. A segurança digital protege quem escolhe evoluir."*
+###  *"A tecnologia transforma quem escolhe aprender. A segurança digital protege quem escolhe evoluir."*
 
-⭐ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
+ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
 
 
 
