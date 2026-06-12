@@ -1,20 +1,29 @@
 
-#  Alexandre Dinis | Desenvolvedor Java Back-end & Futuro Especialista em Cibersegurança
+### Sobre Mim
 
-Da área comercial à tecnologia — aos 33 anos, decidi transformar minha paixão por tecnologia em carreira. Hoje sou **desenvolvedor Java** com foco em back-end e caminhando para me tornar especialista em **cibersegurança**.
+Estudante de Defesa Cibernética e entusiasta de tecnologia. Ao longo dos últimos 5 anos, tenho me dedicado ao estudo independente de sistemas operacionais Linux, infraestrutura e fundamentos de programação. Atualmente, meu foco principal é o aprofundamento na área de segurança da informação, compreendendo testes de intrusão (pentest) e a resolução de desafios de cibersegurança (CTFs).
 
----
+Possuo familiaridade com a criação de scripts e desenvolvimento, principalmente utilizando Java e Python, conhecimentos que aplico nas minhas práticas de segurança. Busco uma oportunidade para iniciar minha carreira em Cibersegurança e aplicar meus conhecimentos teóricos na prática.
 
-##  Sobre Mim
+Formação Acadêmica
+Defesa Cibernética - FIAP (Início: 2026, Previsão de Conclusão: 2027)
+Foco de estudo: segurança ofensiva e defensiva, análise de vulnerabilidades, conceitos de redes e criptografia.
+Habilidades e Tecnologias
+Segurança da Informação: Estudos práticos em testes de intrusão em aplicações web, análise de vulnerabilidades e resolução de CTFs (Capture The Flag).
+Sistemas Operacionais: Vivência prática e administração de sistemas Linux no dia a dia.
+Linguagens de Programação: Conhecimentos em Java (fundamentos e orientação a objetos) e Python (criação de scripts auxiliares para automação e desafios).
+Ferramentas de Segurança: Contato acadêmico com ferramentas de varredura e exploração (ex: Nmap, Nuclei, Nikto, Ffuf).
+Documentação: Prática acadêmica na elaboração de relatórios técnicos de segurança, documentando análises e evidências.
+Projetos e Atividades Práticas
+Resolução de CTFs (Capture The Flag):
 
-Desenvolvedor back-end em constante evolução, com experiência em construção de APIs REST robustas e seguras. Minha trajetória comercial me deu visão de negócio e habilidade para resolver problemas reais com eficiência. Em 2025, inicio minha graduação em **Cibersegurança na FIAP**, consolidando minha transição para a área de segurança ofensiva.
+Participação contínua em desafios práticos de cibersegurança promovidos pela FIAP.
+Criação de scripts em Python para auxiliar na resolução de desafios que envolvem manipulação de dados e exploração de conceitos de segurança.
+Relatórios Acadêmicos de Segurança:
 
-**Busco oportunidades como:**
-- Desenvolvedor Back-end Java (Jr/Pleno)
-- Trainee/Júnior em Cibersegurança
-- Posições que unam desenvolvimento seguro e proteção de sistemas
-
----
+Realização de simulações de segurança em laboratórios e ambientes controlados.
+Elaboração de documentações detalhando o processo de análise, evidências encontradas e propostas de correção para vulnerabilidades.
+Aberto a conexões e oportunidades para iniciar minha carreira na área de Cibersegurança e Tecnologia.
 
 ##  Stack Tecnológica
 
@@ -33,7 +42,6 @@ Desenvolvedor back-end em constante evolução, com experiência em construção
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
 ### Cibersegurança (em formação)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -46,71 +54,7 @@ Desenvolvedor back-end em constante evolução, com experiência em construção
 
 ---
 
-##  Projeto em Destaque
 
-### Sistema de Gestão Financeira SaaS
-
-Plataforma SaaS multi-tenant para gestão financeira doméstica, projetada com foco em escalabilidade, segurança e arquitetura limpa. O sistema permite controle completo de contas, transações, orçamentos, metas financeiras, cartões de crédito e gerenciamento de dívidas pessoais, além de suportar planos de assinatura e isolamento de dados por tenant.
-
-O projeto foi estruturado seguindo boas práticas de engenharia de software e princípios de arquitetura moderna para aplicações SaaS.
-
-Destaques técnicos:
-
-Desenvolvido com Java 17 e Spring Boot 3
-
-Arquitetura em camadas (Controller → Service → Repository → Domain)
-
-Estrutura preparada para multi-tenancy com isolamento por tenant
-
-API RESTful documentada com OpenAPI / Swagger
-
-Persistência com Spring Data JPA e PostgreSQL
-
-Controle de migrations com Flyway
-
-Segurança baseada em Spring Security e JWT
-
-Paginação, idempotência de requisições e padronização de respostas da API
-
-Processamento assíncrono para tarefas recorrentes com Spring Scheduler
-
-Modelagem de domínio completa para transações financeiras, dívidas, metas e orçamentos
-
-Arquitetura e princípios aplicados:
-
-Monólito modular preparado para evolução futura
-
-Separação clara de responsabilidades
-
-Padrões de design para aplicações multi-tenant
-
-Estrutura de domínio inspirada em sistemas financeiros reais
-
-Preparado para escalabilidade e futuras integrações SaaS
-
-Roadmap futuro:
-
-Dashboard financeiro interativo
-
-Sistema de projeção automática de saldo e fluxo financeiro
-
-Integração com importação de extratos (CSV / OFX)
-
-Sistema de classificação automática de categorias
-
-Observabilidade e métricas com Prometheus e Grafana
-
-Rate limiting e otimizações de segurança
-
-Versão mobile da plataforma
-
-Repositórios:
-
-### Backend:
-https://github.com/alexandreDinis/gestao-financeiro-backend
-
-### Frontend:
-https://github.com/alexandreDinis/gestao-financeiro-frontend
 
 ---
 
@@ -136,11 +80,6 @@ https://github.com/alexandreDinis/gestao-financeiro-frontend
 
 ##  Próximos Passos
 
--  Iniciar graduação em Cibersegurança na FIAP (2026)
--  Aprofundar conhecimentos em Red Team e Segurança Ofensiva
--  Continuar me aprofundando no desenvolvimento de APIs
--  Estudar Cloud Security (AWS/Azure)
--  Desenvolver APIs seguras seguindo OWASP e boas práticas de DevSecOps
 -  Conquistar certificações em segurança (CEH, OSCP)
 
 ---
